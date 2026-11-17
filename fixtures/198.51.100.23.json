@@ -1,0 +1,28 @@
+{
+  "_comment": "DATOS SIMULADOS para demo offline (IP de documentacion TEST-NET-2).",
+  "abuseipdb": {
+    "data": {
+      "abuseConfidenceScore": 40,
+      "totalReports": 9,
+      "countryCode": "XX",
+      "isp": "Example Telecom",
+      "usageType": "Fixed Line ISP",
+      "lastReportedAt": "2026-10-10T09:15:00+00:00"
+    }
+  },
+  "virustotal": {
+    "data": {
+      "attributes": {
+        "last_analysis_stats": {
+          "malicious": 0,
+          "suspicious": 2,
+          "harmless": 70,
+          "undetected": 19
+        },
+        "reputation": -2,
+        "country": "XX",
+        "as_owner": "Example Telecom"
+      }
+    }
+  }
+}

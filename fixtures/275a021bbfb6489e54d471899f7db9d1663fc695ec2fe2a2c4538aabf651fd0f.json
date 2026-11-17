@@ -1,0 +1,18 @@
+{
+  "_comment": "DATOS SIMULADOS para demo offline. El hash es el SHA256 real del fichero de prueba EICAR; las cifras de deteccion son inventadas.",
+  "virustotal": {
+    "data": {
+      "attributes": {
+        "last_analysis_stats": {
+          "malicious": 60,
+          "suspicious": 0,
+          "harmless": 0,
+          "undetected": 8
+        },
+        "reputation": 0,
+        "type_description": "EICAR virus test files",
+        "meaningful_name": "eicar.com"
+      }
+    }
+  }
+}

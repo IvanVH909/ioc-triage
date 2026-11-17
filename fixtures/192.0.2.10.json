@@ -1,0 +1,28 @@
+{
+  "_comment": "DATOS SIMULADOS para demo offline (IP de documentacion TEST-NET-1).",
+  "abuseipdb": {
+    "data": {
+      "abuseConfidenceScore": 0,
+      "totalReports": 0,
+      "countryCode": "XX",
+      "isp": "Example Corp",
+      "usageType": "Commercial",
+      "lastReportedAt": null
+    }
+  },
+  "virustotal": {
+    "data": {
+      "attributes": {
+        "last_analysis_stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "harmless": 78,
+          "undetected": 13
+        },
+        "reputation": 0,
+        "country": "XX",
+        "as_owner": "Example Corp"
+      }
+    }
+  }
+}

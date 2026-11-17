@@ -1,0 +1,28 @@
+{
+  "_comment": "DATOS SIMULADOS para demo offline (IP de documentacion TEST-NET-3). No es una IP real.",
+  "abuseipdb": {
+    "data": {
+      "abuseConfidenceScore": 100,
+      "totalReports": 412,
+      "countryCode": "XX",
+      "isp": "Example Hosting Ltd",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "lastReportedAt": "2026-10-27T18:42:10+00:00"
+    }
+  },
+  "virustotal": {
+    "data": {
+      "attributes": {
+        "last_analysis_stats": {
+          "malicious": 14,
+          "suspicious": 2,
+          "harmless": 55,
+          "undetected": 20
+        },
+        "reputation": -38,
+        "country": "XX",
+        "as_owner": "Example Hosting Ltd"
+      }
+    }
+  }
+}

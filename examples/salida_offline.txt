@@ -1,0 +1,19 @@
+
+=== 203.0.113.7  (ip) ===
+AbuseIPDB : score 100/100 · 412 reportes · XX · Example Hosting Ltd
+VirusTotal: 14 malicious / 2 suspicious / 55 harmless
+Veredicto base (reglas): MALICIOUS
+
+=== 198.51.100.23  (ip) ===
+AbuseIPDB : score 40/100 · 9 reportes · XX · Example Telecom
+VirusTotal: 0 malicious / 2 suspicious / 70 harmless
+Veredicto base (reglas): SUSPICIOUS
+
+=== 192.0.2.10  (ip) ===
+AbuseIPDB : score 0/100 · 0 reportes · XX · Example Corp
+VirusTotal: 0 malicious / 0 suspicious / 78 harmless
+Veredicto base (reglas): BENIGN
+
+=== 275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f  (hash) ===
+VirusTotal: 60 malicious / 0 suspicious / 0 harmless
+Veredicto base (reglas): MALICIOUS
